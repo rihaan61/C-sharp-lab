@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\bin\Debug\net8.0\NumberSquare.exe
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\bin\Debug\net8.0\NumberSquare.deps.json
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\bin\Debug\net8.0\NumberSquare.runtimeconfig.json
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\bin\Debug\net8.0\NumberSquare.dll
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\bin\Debug\net8.0\NumberSquare.pdb
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.AssemblyInfo.cs
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.dll
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\refint\NumberSquare.dll
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.pdb
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\NumberSquare.genruntimeconfig.cache
+C:\Users\Student\Desktop\Prathwinkj\NumberSquare\obj\Debug\net8.0\ref\NumberSquare.dll
