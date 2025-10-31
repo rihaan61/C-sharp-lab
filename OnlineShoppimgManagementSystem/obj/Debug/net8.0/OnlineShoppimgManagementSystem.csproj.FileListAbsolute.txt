@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\bin\Debug\net8.0\OnlineShoppimgManagementSystem.exe
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\bin\Debug\net8.0\OnlineShoppimgManagementSystem.deps.json
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\bin\Debug\net8.0\OnlineShoppimgManagementSystem.runtimeconfig.json
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\bin\Debug\net8.0\OnlineShoppimgManagementSystem.dll
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\bin\Debug\net8.0\OnlineShoppimgManagementSystem.pdb
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.AssemblyInfo.cs
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.dll
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\refint\OnlineShoppimgManagementSystem.dll
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.pdb
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\OnlineShoppimgManagementSystem.genruntimeconfig.cache
+C:\Users\Student\Desktop\Prathwinkj\OnlineShoppimgManagementSystem\obj\Debug\net8.0\ref\OnlineShoppimgManagementSystem.dll
