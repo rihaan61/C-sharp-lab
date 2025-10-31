@@ -1,0 +1,14 @@
+C:\Users\prath\source\repos\Constructorexdemo\bin\Debug\net8.0\Constructorexdemo.exe
+C:\Users\prath\source\repos\Constructorexdemo\bin\Debug\net8.0\Constructorexdemo.deps.json
+C:\Users\prath\source\repos\Constructorexdemo\bin\Debug\net8.0\Constructorexdemo.runtimeconfig.json
+C:\Users\prath\source\repos\Constructorexdemo\bin\Debug\net8.0\Constructorexdemo.dll
+C:\Users\prath\source\repos\Constructorexdemo\bin\Debug\net8.0\Constructorexdemo.pdb
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.AssemblyInfoInputs.cache
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.AssemblyInfo.cs
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.csproj.CoreCompileInputs.cache
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.dll
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\refint\Constructorexdemo.dll
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.pdb
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\Constructorexdemo.genruntimeconfig.cache
+C:\Users\prath\source\repos\Constructorexdemo\obj\Debug\net8.0\ref\Constructorexdemo.dll
