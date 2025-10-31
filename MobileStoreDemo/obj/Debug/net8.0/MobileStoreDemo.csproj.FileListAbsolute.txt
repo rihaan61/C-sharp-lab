@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\bin\Debug\net8.0\MobileStoreDemo.exe
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\bin\Debug\net8.0\MobileStoreDemo.deps.json
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\bin\Debug\net8.0\MobileStoreDemo.runtimeconfig.json
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\bin\Debug\net8.0\MobileStoreDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\bin\Debug\net8.0\MobileStoreDemo.pdb
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.AssemblyInfo.cs
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\refint\MobileStoreDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.pdb
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\MobileStoreDemo.genruntimeconfig.cache
+C:\Users\Student\Desktop\Prathwinkj\MobileStoreDemo\obj\Debug\net8.0\ref\MobileStoreDemo.dll
