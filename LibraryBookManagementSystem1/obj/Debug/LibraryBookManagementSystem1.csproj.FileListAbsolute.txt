@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\bin\Debug\LibraryBookManagementSystem1.exe.config
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\bin\Debug\LibraryBookManagementSystem1.exe
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\bin\Debug\LibraryBookManagementSystem1.pdb
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\obj\Debug\LibraryBookManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\obj\Debug\LibraryBookManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\obj\Debug\LibraryBookManagementSystem1.exe
+C:\Users\Student\Desktop\Prathwinkj\LibraryBookManagementSystem1\obj\Debug\LibraryBookManagementSystem1.pdb
