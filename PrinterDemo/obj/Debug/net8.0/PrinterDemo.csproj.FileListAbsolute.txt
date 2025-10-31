@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\bin\Debug\net8.0\PrinterDemo.exe
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\bin\Debug\net8.0\PrinterDemo.deps.json
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\bin\Debug\net8.0\PrinterDemo.runtimeconfig.json
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\bin\Debug\net8.0\PrinterDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\bin\Debug\net8.0\PrinterDemo.pdb
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.AssemblyInfo.cs
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\refint\PrinterDemo.dll
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.pdb
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\PrinterDemo.genruntimeconfig.cache
+C:\Users\Student\Desktop\Prathwinkj\PrinterDemo\obj\Debug\net8.0\ref\PrinterDemo.dll
