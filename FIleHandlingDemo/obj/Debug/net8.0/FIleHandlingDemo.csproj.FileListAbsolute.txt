@@ -1,0 +1,14 @@
+C:\Users\prath\source\repos\FIleHandlingDemo\bin\Debug\net8.0\FIleHandlingDemo.exe
+C:\Users\prath\source\repos\FIleHandlingDemo\bin\Debug\net8.0\FIleHandlingDemo.deps.json
+C:\Users\prath\source\repos\FIleHandlingDemo\bin\Debug\net8.0\FIleHandlingDemo.runtimeconfig.json
+C:\Users\prath\source\repos\FIleHandlingDemo\bin\Debug\net8.0\FIleHandlingDemo.dll
+C:\Users\prath\source\repos\FIleHandlingDemo\bin\Debug\net8.0\FIleHandlingDemo.pdb
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.AssemblyInfo.cs
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.dll
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\refint\FIleHandlingDemo.dll
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.pdb
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\FIleHandlingDemo.genruntimeconfig.cache
+C:\Users\prath\source\repos\FIleHandlingDemo\obj\Debug\net8.0\ref\FIleHandlingDemo.dll
