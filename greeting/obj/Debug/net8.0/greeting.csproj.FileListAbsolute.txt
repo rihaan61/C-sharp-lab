@@ -1,0 +1,14 @@
+C:\Users\prath\source\repos\greeting\bin\Debug\net8.0\greeting.exe
+C:\Users\prath\source\repos\greeting\bin\Debug\net8.0\greeting.deps.json
+C:\Users\prath\source\repos\greeting\bin\Debug\net8.0\greeting.runtimeconfig.json
+C:\Users\prath\source\repos\greeting\bin\Debug\net8.0\greeting.dll
+C:\Users\prath\source\repos\greeting\bin\Debug\net8.0\greeting.pdb
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.AssemblyInfoInputs.cache
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.AssemblyInfo.cs
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.csproj.CoreCompileInputs.cache
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.dll
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\refint\greeting.dll
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.pdb
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\greeting.genruntimeconfig.cache
+C:\Users\prath\source\repos\greeting\obj\Debug\net8.0\ref\greeting.dll
